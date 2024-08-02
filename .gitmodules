@@ -1,3 +1,24 @@
 [submodule "eureka_service"]
 	path = eureka_service
 	url = https://github.com/VadimShibanov/eureka_service.git
+[submodule "history"]
+	path = history
+	url = https://github.com/VadimShibanov/history.git
+[submodule "profile"]
+	path = profile
+	url = https://github.com/VadimShibanov/profile.git
+[submodule "public-info"]
+	path = public-info
+	url = https://github.com/VadimShibanov/public-info.git
+[submodule "transfer"]
+	path = transfer
+	url = https://github.com/VadimShibanov/transfer.git
+[submodule "authorization"]
+	path = authorization
+	url = https://github.com/VadimShibanov/authorization.git
+[submodule "antifraud"]
+	path = antifraud
+	url = https://github.com/VadimShibanov/antifraud.git
+[submodule "account"]
+	path = account
+	url = https://github.com/VadimShibanov/account.git
